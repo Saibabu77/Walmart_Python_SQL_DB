@@ -1,4 +1,7 @@
-# Walmart_Python_SQL_DB
+# Walmart_Python_SQL_DB(Mysql and Postgre)
+
+![WALMART DB](https://github.com/user-attachments/assets/cb30b8ca-be28-4df7-a881-43cebcb174d7)
+
 This project focuses on cleaning Netflix data using Python and Pandas, handling missing values, duplicates, and formatting inconsistencies. The cleaned dataset is then structured and uploaded to an SQL database for efficient querying and analysis
 
 # Netflix Data Cleaning and SQL Integration
@@ -84,8 +87,15 @@ df_sql = pd.read_sql(query, con=engine)
 2. Run the Jupyter Notebook or Python script.
 3. Connect to your SQL database and execute queries.
 
-## Author
-Your Name
+Example: question 1. Determine the average, minimum, and maximum rating of categories for each city?
+Answer
+![Screenshot 2025-02-26 145344](https://github.com/user-attachments/assets/01a0a6d6-083e-4d9d-b4ba-28fe1b3838f0)
 
----
-This README provides an overview and structured documentation of the project.
+
+
+
+## Author
+Sai babu
+
+
+
