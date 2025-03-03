@@ -1,0 +1,514 @@
+city,category,min_rating,max_rating,avg_rating
+"San Antonio","Health and beauty",5,9.1,7.05
+Harlingen,"Electronic accessories",9.6,9.6,9.6
+"Haltom City","Home and lifestyle",3,9.5,6.227777777777778
+Bedford,"Health and beauty",6.1,9.3,8.15
+Irving,"Sports and travel",5.3,5.3,5.3
+Denton,"Electronic accessories",4.1,9,6.7
+Cleburne,"Electronic accessories",5.8,7.8,7.25
+Canyon,"Home and lifestyle",3,9,6.25
+Grapevine,"Health and beauty",7.2,7.2,7.2
+"Texas City","Food and beverages",5.5,5.9,5.7
+Irving,"Fashion accessories",3,9.8,6.206896551724138
+"San Angelo","Electronic accessories",3,7,5.8307692307692305
+Abilene,"Electronic accessories",7.1,8.8,7.966666666666666
+"San Angelo","Food and beverages",8.2,8.5,8.35
+Lewisville,"Health and beauty",5.5,5.7,5.6
+"Corpus Christi","Sports and travel",4.5,4.5,4.5
+"Round Rock","Health and beauty",4.6,8.7,6.6499999999999995
+"Cedar Park","Sports and travel",6.6,6.9,6.75
+Conroe,"Food and beverages",4,8.6,6.866666666666667
+Irving,"Home and lifestyle",4,9.7,6.265217391304348
+Pharr,"Electronic accessories",4.8,4.8,4.8
+Cleburne,"Health and beauty",4.2,5.6,4.875
+"Farmers Branch","Home and lifestyle",3,9,6.2625
+"Haltom City","Electronic accessories",4.5,9.9,8.033333333333333
+Midland,"Sports and travel",5.4,6,5.7
+Houston,"Home and lifestyle",3,9,6.163888888888889
+Lancaster,"Fashion accessories",4,9,5.809375
+Temple,"Fashion accessories",3,9,5.2089108910891095
+Garland,"Food and beverages",4.2,9.9,6.871428571428571
+"San Marcos","Health and beauty",5,7.4,6.58
+Huntsville,"Fashion accessories",4,9.7,6.837837837837838
+"Mineral Wells","Sports and travel",4.5,5.1,4.8
+McAllen,"Sports and travel",5.1,9.3,7.2
+"Eagle Pass","Health and beauty",5.1,5.1,5.1
+Mesquite,"Food and beverages",7.5,7.5,7.5
+"Big Spring","Sports and travel",6.8,8,7.340000000000001
+Mission,"Sports and travel",7,7,7
+Hurst,"Electronic accessories",4.7,6.5,5.55
+Hurst,"Health and beauty",6.6,8.1,7.475
+Richardson,"Home and lifestyle",3,9.8,5.45188679245283
+Pearland,"Home and lifestyle",3,9,6.540909090909091
+Cleburne,"Home and lifestyle",3,9,6.975
+"La Porte","Sports and travel",5.6,9.5,7.166666666666667
+Bryan,"Food and beverages",4.5,9.1,6.65
+Allen,"Health and beauty",4.4,7.2,5.933333333333334
+Rowlett,"Electronic accessories",3,9.5,5.966666666666667
+"Port Arthur","Health and beauty",4.2,8.4,6.300000000000001
+"Grand Prairie","Food and beverages",4.1,7.1,5.6
+Georgetown,"Electronic accessories",7.6,9.4,8.325
+McAllen,"Fashion accessories",3,9,5.787096774193548
+Southlake,"Food and beverages",5.2,9.5,7.35
+Angleton,"Food and beverages",6.9,8.5,7.7
+Mission,"Fashion accessories",4,9,6.609375
+"Missouri City","Fashion accessories",4,9,5.656666666666666
+"Fort Worth","Home and lifestyle",4,9,6.6189189189189195
+Bryan,"Electronic accessories",6.1,8.2,7.1499999999999995
+"San Antonio","Home and lifestyle",3,9.5,5.4575000000000005
+Grapevine,"Home and lifestyle",3,9,6.062162162162163
+Lewisville,"Electronic accessories",5.8,9.3,7.566666666666666
+Bryan,"Sports and travel",4.5,10,7.25
+"Del Rio","Home and lifestyle",3,9.9,5.783333333333333
+"League City","Sports and travel",8.7,10,9.35
+Rockwall,"Sports and travel",6.3,9.7,7.76
+Waxahachie,"Health and beauty",4.8,9.5,7.2
+Bryan,"Health and beauty",5.8,7.9,6.85
+Killeen,"Health and beauty",6.7,9.8,8.25
+"Round Rock","Fashion accessories",3,9.9,5.092
+"San Angelo","Health and beauty",4.3,8.7,6.5
+Arlington,"Food and beverages",5.5,9.6,7.55
+McKinney,"Fashion accessories",3,9,6.279411764705882
+"Eagle Pass","Food and beverages",4,9,6.5
+"Farmers Branch","Electronic accessories",5,8.7,6.566666666666666
+Lancaster,"Home and lifestyle",3,9.4,5.8999999999999995
+"San Antonio","Electronic accessories",3,9.9,5.517647058823529
+"Port Arthur","Fashion accessories",3,9.2,5.442735042735042
+Alamo,"Fashion accessories",3,9,6.873076923076923
+Georgetown,"Food and beverages",6.6,8.1,7.333333333333333
+Lufkin,"Health and beauty",4.3,9.8,6.7250000000000005
+"Cedar Park","Health and beauty",5.5,5.5,5.5
+Brownwood,"Food and beverages",6.4,9.2,7.8
+"Cedar Park","Food and beverages",6.6,9.9,8.466666666666667
+Mission,"Food and beverages",7.7,8.3,8
+Alice,"Sports and travel",6.5,7.9,6.925000000000001
+Baytown,"Sports and travel",4,8.9,6.45
+Bryan,"Fashion accessories",4,9.9,6.760869565217392
+Temple,"Food and beverages",7.3,7.3,7.3
+Lubbock,"Sports and travel",5.7,6.6,6.15
+"Big Spring","Home and lifestyle",3,9,6.164102564102564
+"North Richland Hills","Sports and travel",7.4,8.2,7.666666666666667
+Edinburg,"Sports and travel",5.1,7.8,6.475
+"Texas City","Health and beauty",4.9,8.6,6.533333333333334
+"College Station","Electronic accessories",7.2,9.7,8.45
+Amarillo,"Health and beauty",5.1,5.1,5.1
+"Eagle Pass","Electronic accessories",4.1,7.3,5.699999999999999
+Austin,"Food and beverages",9.3,9.3,9.3
+Lubbock,"Home and lifestyle",3,9,6.142857142857143
+"San Marcos","Fashion accessories",3,7,5.02375
+Euless,"Fashion accessories",3,9,6.036363636363636
+Midland,"Electronic accessories",4.9,6.3,5.733333333333333
+"Del Rio","Health and beauty",8,8,8
+Waxahachie,"Electronic accessories",3,9,5.929166666666667
+"Sugar Land","Fashion accessories",3,7.9,5.182758620689655
+Pharr,"Food and beverages",4.2,9.9,7.325000000000001
+Arlington,"Sports and travel",4.6,6.2,5.4
+Waco,"Health and beauty",5.3,9.3,7.55
+"Fort Worth","Fashion accessories",3,9,6.335135135135135
+Carrollton,"Home and lifestyle",4,9,6.155882352941177
+Waxahachie,"Fashion accessories",3,9.2,5.142613636363636
+Edinburg,"Fashion accessories",3,9,6.730769230769231
+Lufkin,"Fashion accessories",3,9.9,6.0103448275862075
+Abilene,"Food and beverages",6,8.9,6.95
+Lufkin,"Home and lifestyle",3,9,6.180645161290323
+Amarillo,"Electronic accessories",5.2,7.8,6.833333333333333
+Kerrville,"Sports and travel",4.2,6.5,5.233333333333333
+"Cedar Park","Home and lifestyle",3,9,6.423529411764706
+Cleburne,"Fashion accessories",3,9,6.008333333333334
+"College Station","Home and lifestyle",4,9,6.346428571428571
+Brownsville,"Sports and travel",9,9.2,9.1
+Pharr,"Fashion accessories",3,9,6.140000000000001
+Frisco,"Sports and travel",5.1,7.2,6.15
+Mesquite,"Fashion accessories",4,9,6.082857142857143
+Burleson,"Sports and travel",6.6,8.3,7.4
+Waxahachie,"Sports and travel",5.2,7.4,6.16
+Dallas,"Electronic accessories",6.1,9,8.125
+Galveston,"Health and beauty",4.3,8.3,5.966666666666666
+"Mineral Wells","Fashion accessories",3,9,6.116129032258065
+Angleton,"Home and lifestyle",3,9.8,6.503225806451613
+"Round Rock","Sports and travel",8.2,8.2,8.2
+Garland,"Health and beauty",6,9.5,7.45
+Mansfield,"Health and beauty",4,9.1,6.8999999999999995
+Alice,"Food and beverages",5,9.2,7.675
+"Missouri City","Home and lifestyle",3,9,6.4
+"Flower Mound","Health and beauty",6.4,9.5,7.95
+Denton,"Fashion accessories",3,9.2,6.718181818181818
+Sherman,"Health and beauty",5.6,5.6,5.6
+"North Richland Hills","Home and lifestyle",4,9.3,6.344117647058823
+Brownsville,"Fashion accessories",3,9,6.47741935483871
+Hurst,"Sports and travel",5.3,7.3,6.3
+Weatherford,"Fashion accessories",3,7.4,4.953424657534247
+Lufkin,"Food and beverages",7.2,9.9,8.6
+"Del Rio","Sports and travel",4.1,9.3,6.7
+Weslaco,"Food and beverages",7.1,9.8,8.733333333333333
+Canyon,"Health and beauty",5.8,8.9,6.900000000000001
+Alamo,"Sports and travel",5,10,7.3
+Odessa,"Food and beverages",7.7,8.3,8
+Pasadena,"Sports and travel",5.5,9.3,6.875
+Lubbock,"Food and beverages",7,7,7
+Schertz,"Sports and travel",4.1,6.5,5.466666666666666
+Euless,"Food and beverages",4.5,8.8,6.766666666666667
+Rockwall,"Food and beverages",4.8,6.5,5.566666666666666
+Southlake,"Sports and travel",8.5,9.7,8.9
+Longview,"Food and beverages",8,9.9,9.025
+Longview,"Electronic accessories",6.3,7.5,6.9
+"Flower Mound","Electronic accessories",5.9,9.8,7.266666666666667
+DeSoto,"Home and lifestyle",3,9,5.969230769230769
+Seguin,"Food and beverages",9.6,9.6,9.6
+Pflugerville,"Fashion accessories",3,9,6.6
+Rosenberg,"Health and beauty",9.9,9.9,9.9
+Seguin,"Fashion accessories",3,8,5.186764705882353
+Conroe,"Sports and travel",8,8,8
+Carrollton,"Health and beauty",5.7,5.7,5.7
+Lancaster,"Food and beverages",5,9.8,7.6000000000000005
+Midland,"Home and lifestyle",4,9,6.369565217391305
+"Sugar Land","Home and lifestyle",3,9,5.224719101123595
+Schertz,"Home and lifestyle",3,9.8,5.369
+Pflugerville,"Home and lifestyle",4,9,6.828571428571428
+Galveston,"Fashion accessories",3,9.5,6
+"Grand Prairie","Home and lifestyle",3,9,6.223076923076923
+Grapevine,"Fashion accessories",3,9,6.46875
+"La Porte","Health and beauty",4.9,9.1,7
+Dallas,"Home and lifestyle",3,9,6.003448275862069
+Alamo,"Health and beauty",7.7,8.2,7.949999999999999
+"Flower Mound","Food and beverages",5.5,5.5,5.5
+Canyon,"Sports and travel",5.2,7,6.333333333333333
+"Fort Worth","Electronic accessories",5.1,9.9,6.8
+Rosenberg,"Electronic accessories",3,9.8,5.825
+"Texas City","Home and lifestyle",3,7,4.9291139240506325
+Kerrville,"Health and beauty",7.9,8.7,8.3
+Waxahachie,"Home and lifestyle",3,9,5.074698795180723
+Baytown,"Fashion accessories",3,9.5,6.120454545454546
+Victoria,"Electronic accessories",3,7.3,5.275
+Angleton,"Sports and travel",4.4,9.7,6.7
+"Texas City","Sports and travel",4.5,6.5,5.5
+"Sugar Land","Sports and travel",8.5,8.5,8.5
+Friendswood,"Electronic accessories",5.5,5.5,5.5
+Rowlett,"Food and beverages",5.4,6.1,5.75
+Killeen,"Electronic accessories",4.4,9.4,6.55
+"San Antonio","Food and beverages",5.6,7.6,6.466666666666666
+"Haltom City","Sports and travel",9.7,9.7,9.7
+Pflugerville,"Health and beauty",4,8.4,6.8
+Burleson,"Electronic accessories",9.7,9.7,9.7
+"North Richland Hills","Electronic accessories",5.3,7.9,6.6
+Arlington,"Fashion accessories",3,9,6.196969696969697
+Carrollton,"Electronic accessories",8.7,8.7,8.7
+Rockwall,"Health and beauty",4.1,6.5,5.366666666666667
+Burleson,"Health and beauty",4.9,4.9,4.9
+Midland,"Fashion accessories",3,9,6.431578947368421
+Edinburg,"Electronic accessories",4.3,9.8,7.050000000000001
+Kerrville,"Fashion accessories",3,9,6.727027027027027
+Plano,"Food and beverages",5.6,7.8,7
+Coppell,"Fashion accessories",3,9,6.418181818181819
+Hurst,"Home and lifestyle",3,9,6.52258064516129
+McAllen,"Home and lifestyle",4,9,6.058620689655172
+Pasadena,"Electronic accessories",8,8.8,8.4
+Denton,"Food and beverages",4.2,4.2,4.2
+Pearland,"Food and beverages",6.4,6.4,6.4
+"Del Rio","Fashion accessories",4,9,6.380645161290323
+Grapevine,"Sports and travel",7.2,7.2,7.2
+Brownsville,"Home and lifestyle",3,9,6.422580645161291
+Harlingen,"Fashion accessories",4,9.2,6.639473684210526
+"Round Rock","Electronic accessories",4,7,5.846153846153846
+Canyon,"Electronic accessories",5,6.9,6.166666666666667
+Weslaco,"Electronic accessories",3,8.4,5.078260869565217
+Pasadena,"Fashion accessories",3,9,5.909375
+Weatherford,"Sports and travel",4.2,6.2,5.2
+"San Marcos","Sports and travel",6.3,8.7,7.9
+Friendswood,"Food and beverages",8.5,9.5,9.1
+Abilene,"Health and beauty",9.7,9.7,9.7
+Alamo,"Home and lifestyle",3,9,6.300000000000001
+Waco,"Home and lifestyle",3,9,5.161728395061728
+Rowlett,"Fashion accessories",3,9.8,5.121951219512195
+Abilene,"Home and lifestyle",4,9,6.096875
+"Little Elm","Fashion accessories",4,9.6,6.118181818181818
+"New Braunfels","Sports and travel",8.2,9.6,8.899999999999999
+Seguin,"Home and lifestyle",3,9,5.325641025641025
+Allen,"Home and lifestyle",4,9,6.2178571428571425
+Richardson,"Health and beauty",5,8.9,7.466666666666666
+Laredo,"Home and lifestyle",3,9,6.190322580645161
+Alamo,"Food and beverages",5.2,5.2,5.2
+Weslaco,"Home and lifestyle",3,9.2,5.1835051546391755
+McKinney,"Electronic accessories",7,7,7
+Arlington,"Electronic accessories",4.7,5.5,5.166666666666667
+Midland,"Health and beauty",5.9,9.7,8
+Allen,"Electronic accessories",6.4,6.4,6.4
+Kerrville,"Home and lifestyle",4,9,6.2125
+McKinney,"Home and lifestyle",3,9,5.9270270270270276
+Canyon,"Fashion accessories",3,9,6.068
+Harlingen,"Health and beauty",4.7,8.1,6.633333333333333
+Lewisville,"Food and beverages",4.4,4.4,4.4
+"Missouri City","Electronic accessories",4,8.6,6.3
+Conroe,"Electronic accessories",4.3,8.5,6.4
+Cleburne,"Sports and travel",6.4,9.6,7.666666666666667
+Pearland,"Electronic accessories",4.7,4.7,4.7
+Garland,"Fashion accessories",3,9.5,6.4
+Allen,"Sports and travel",5.5,5.5,5.5
+Denton,"Health and beauty",5,8.7,6.85
+"San Marcos","Electronic accessories",3,8.9,4.794444444444444
+Richardson,"Food and beverages",4,5.2,4.6
+"Little Elm","Electronic accessories",4.9,7.6,6.25
+Brownsville,"Health and beauty",6.2,8.4,7.300000000000001
+"League City","Health and beauty",7.7,9.8,8.75
+Laredo,"Fashion accessories",3,9.6,6.884848484848485
+Rosenberg,"Home and lifestyle",3,9.4,5.033333333333333
+Huntsville,"Food and beverages",6.4,9.1,8.1
+Hurst,"Fashion accessories",3,9,6.092592592592593
+"College Station","Food and beverages",6.5,7.9,7.2
+Tyler,"Electronic accessories",3,9.1,5.315384615384615
+Carrollton,"Fashion accessories",3,9,6.483333333333333
+Brownsville,"Electronic accessories",5,9.5,7.125
+"New Braunfels","Food and beverages",4.3,8.9,6.6
+"Missouri City","Food and beverages",9.3,9.3,9.3
+"Big Spring","Electronic accessories",5.1,8,6.233333333333333
+Pasadena,"Home and lifestyle",4,9,6.993939393939394
+Odessa,"Fashion accessories",4,9.3,6.333333333333333
+McKinney,"Sports and travel",5.2,5.2,5.2
+Friendswood,"Sports and travel",5.6,5.6,5.6
+Laredo,"Food and beverages",5.7,7.4,6.550000000000001
+Hurst,"Food and beverages",9.1,9.1,9.1
+Dallas,"Food and beverages",8,8.5,8.25
+Southlake,"Home and lifestyle",3,8.7,5.18641975308642
+"League City","Food and beverages",7.1,7.1,7.1
+"La Porte","Fashion accessories",3,9.1,6.587096774193548
+Lancaster,"Electronic accessories",5.6,9,7.733333333333333
+Harlingen,"Home and lifestyle",3,9,6.142857142857143
+Denton,"Sports and travel",5.4,8.6,6.7
+Frisco,"Electronic accessories",7.8,9.7,8.75
+Amarillo,"Fashion accessories",3,9,6.688461538461539
+Killeen,"Home and lifestyle",4,9.1,6.87
+Plano,"Fashion accessories",3,9.4,5.315044247787611
+"Eagle Pass","Home and lifestyle",4,9.6,6.425641025641026
+"Flower Mound","Sports and travel",4.5,7.5,6
+"Corpus Christi","Electronic accessories",4.2,4.2,4.2
+"Little Elm","Food and beverages",4.2,6.4,5.166666666666667
+"El Paso","Food and beverages",6,6,6
+"College Station","Health and beauty",10,10,10
+Weslaco,"Fashion accessories",3,9.5,5.042011834319527
+Grapevine,"Food and beverages",6,7.6,6.733333333333333
+Dallas,"Fashion accessories",3,9.7,5.955172413793103
+"Missouri City","Health and beauty",7.3,8.9,7.866666666666667
+"San Marcos","Food and beverages",4.6,8,6.3
+"Lake Jackson","Home and lifestyle",4,9,6.1625000000000005
+McKinney,"Health and beauty",5.6,8.3,6.95
+Abilene,"Fashion accessories",4,9,6.240625
+"New Braunfels","Fashion accessories",3,9,6.094117647058823
+Austin,"Home and lifestyle",4,9,6.788461538461538
+"Flower Mound","Fashion accessories",4,9,6.608823529411764
+Lubbock,"Health and beauty",4.2,9.5,6.266666666666667
+"Fort Worth","Health and beauty",7.8,9,8.366666666666667
+"San Angelo","Home and lifestyle",3,8.7,5.35068493150685
+Conroe,"Health and beauty",4.9,9.2,7.05
+"Mineral Wells","Electronic accessories",4.4,8.2,6.866666666666667
+Waxahachie,"Food and beverages",7.5,7.5,7.5
+Temple,"Electronic accessories",3,9.8,5.4799999999999995
+Tyler,"Fashion accessories",3,9.4,5.541095890410959
+Schertz,"Fashion accessories",3,9.5,5.305376344086021
+Galveston,"Electronic accessories",5.5,6.4,5.95
+Richardson,"Fashion accessories",3,9.6,5.320353982300885
+Pharr,"Sports and travel",9,9,9
+Plano,"Sports and travel",9.6,9.6,9.6
+"League City","Electronic accessories",6.5,7.3,6.9
+Houston,"Sports and travel",4.3,9.3,6.533333333333334
+"Round Rock","Home and lifestyle",3,9.3,5.176923076923076
+Victoria,"Fashion accessories",3,9.5,5.2384615384615385
+Georgetown,"Health and beauty",5.3,5.3,5.3
+Coppell,"Sports and travel",9.6,9.6,9.6
+Weatherford,"Electronic accessories",5,7,5.95
+Coppell,"Electronic accessories",4.9,7.6,6.4
+Burleson,"Food and beverages",4.8,4.8,4.8
+Odessa,"Electronic accessories",4.1,5,4.6
+Nacogdoches,"Food and beverages",4.4,9.1,6
+Bedford,"Food and beverages",4.5,5.6,5.05
+Rosenberg,"Food and beverages",6,8.7,7.2
+Lufkin,"Electronic accessories",8.4,8.4,8.4
+Laredo,"Health and beauty",6.3,6.3,6.3
+Pflugerville,"Sports and travel",4.2,9.9,6.933333333333334
+Euless,"Electronic accessories",5,6.7,5.85
+"Del Rio","Food and beverages",8.4,9.6,9
+Grapevine,"Electronic accessories",6.2,6.2,6.2
+Nacogdoches,"Home and lifestyle",4,9,6.448275862068965
+"San Antonio","Sports and travel",7,8,7.5
+DeSoto,"Sports and travel",6.6,6.6,6.6
+Nacogdoches,"Fashion accessories",3,9,6.3475
+Victoria,"Home and lifestyle",3,7,5.003846153846154
+Georgetown,"Home and lifestyle",4,9.8,6.154545454545454
+Austin,"Fashion accessories",4,9,7.16774193548387
+Friendswood,"Fashion accessories",3,9,6.315625
+"Mineral Wells","Food and beverages",6.2,6.2,6.2
+Seguin,"Sports and travel",8.9,8.9,8.9
+Lufkin,"Sports and travel",5.9,9.6,7.75
+"El Paso","Fashion accessories",3,9.1,6.797058823529412
+Harlingen,"Sports and travel",5.9,9.5,8.066666666666668
+Pflugerville,"Food and beverages",4.3,7.7,6.566666666666666
+Coppell,"Health and beauty",4,7,5.5
+Euless,"Sports and travel",4.2,6.7,5.7
+Arlington,"Home and lifestyle",3,9,6.326666666666667
+Waco,"Fashion accessories",3,9,5.478125
+"Corpus Christi","Home and lifestyle",3,9.7,6.633333333333334
+Pearland,"Sports and travel",4.3,7.7,6
+Pflugerville,"Electronic accessories",7.7,8.1,7.9
+Alice,"Home and lifestyle",4,9,6.041935483870968
+Weslaco,"Sports and travel",4.1,7.1,5.6
+"Big Spring","Fashion accessories",4,9,6.51875
+Seguin,"Health and beauty",7,7.7,7.35
+Kerrville,"Food and beverages",8.4,8.4,8.4
+Georgetown,"Fashion accessories",3,9,6.207692307692308
+Galveston,"Food and beverages",5.1,5.1,5.1
+Bryan,"Home and lifestyle",4,9.1,6.4
+"Little Elm","Sports and travel",5,5,5
+"Eagle Pass","Fashion accessories",3,9,5.977142857142857
+"Cedar Park","Electronic accessories",5,8,6.633333333333333
+Amarillo,"Home and lifestyle",3,9,6.395454545454545
+Allen,"Food and beverages",5.6,5.6,5.6
+Southlake,"Electronic accessories",3,7,5.57
+Killeen,"Fashion accessories",3,9,6.0285714285714285
+"North Richland Hills","Food and beverages",5,6.3,5.866666666666667
+Brownwood,"Sports and travel",5.1,9.9,8.133333333333333
+"Farmers Branch","Fashion accessories",3,9,6.151428571428572
+Temple,"Home and lifestyle",3,9,5.190789473684211
+"Lake Jackson","Sports and travel",4.2,8.6,6.4
+Richardson,"Sports and travel",8.6,8.6,8.6
+Mansfield,"Food and beverages",5.8,8.1,6.65
+"Big Spring","Health and beauty",6,8.4,7.725
+Houston,"Fashion accessories",3,9.5,6.435294117647059
+"Sugar Land","Food and beverages",5.1,9.2,7.1499999999999995
+Friendswood,"Health and beauty",4.4,9.3,7.066666666666667
+Temple,"Sports and travel",4.1,9.8,6.533333333333334
+Odessa,"Sports and travel",4.8,4.8,4.8
+Killeen,"Sports and travel",5.3,7.4,6.35
+"Flower Mound","Home and lifestyle",4,9.6,6.258974358974359
+Nacogdoches,"Electronic accessories",6.4,8,7.2
+Bedford,"Fashion accessories",3,9,5.859375
+Rockwall,"Fashion accessories",3,9,5.441904761904762
+McAllen,"Food and beverages",6.2,6.4,6.300000000000001
+"North Richland Hills","Fashion accessories",3,9,5.748275862068965
+"Round Rock","Food and beverages",8.9,8.9,8.9
+"Sugar Land","Electronic accessories",4,7,5.4
+"Missouri City","Sports and travel",9,9,9
+Killeen,"Food and beverages",7,9.1,8.333333333333334
+Baytown,"Health and beauty",5,5,5
+"El Paso","Sports and travel",6.3,6.7,6.5
+Houston,"Electronic accessories",5.4,9.5,7.45
+"Port Arthur","Home and lifestyle",3,9,5.179279279279279
+"Sugar Land","Health and beauty",6,9.2,7.6
+Waco,"Electronic accessories",3,9,5.411111111111111
+"Mineral Wells","Home and lifestyle",3,9,6.382142857142857
+DeSoto,"Health and beauty",9.9,9.9,9.9
+Seguin,"Electronic accessories",3,7,5.061538461538461
+Sherman,"Fashion accessories",3,9.2,5.180000000000001
+Angleton,"Fashion accessories",4,8,6.13448275862069
+Galveston,"Sports and travel",7.3,7.3,7.3
+Kerrville,"Electronic accessories",6.5,6.5,6.5
+Georgetown,"Sports and travel",4.9,4.9,4.9
+Mission,"Home and lifestyle",3,9,5.739393939393939
+"Port Arthur","Sports and travel",6.1,6.1,6.1
+"Farmers Branch","Food and beverages",4.6,7.5,6.05
+Mesquite,"Health and beauty",8.8,8.8,8.8
+Mansfield,"Home and lifestyle",4,9,6.6866666666666665
+"La Porte","Home and lifestyle",4,9,5.76896551724138
+"Cedar Park","Fashion accessories",4,9.6,6.561538461538461
+Pharr,"Health and beauty",9.2,9.2,9.2
+McAllen,"Health and beauty",6,6,6
+Euless,"Health and beauty",6.6,6.6,6.6
+"Corpus Christi","Food and beverages",7.4,7.4,7.4
+DeSoto,"Food and beverages",6.3,7.4,6.85
+Schertz,"Health and beauty",4.2,6.6,5.4
+Mansfield,"Electronic accessories",6.6,8.9,7.75
+Laredo,"Electronic accessories",9,9,9
+Bedford,"Electronic accessories",6,6,6
+Dallas,"Sports and travel",5.6,5.6,5.6
+DeSoto,"Fashion accessories",3,9,6.391666666666667
+Rockwall,"Electronic accessories",3,7,5.4
+Austin,"Health and beauty",6.6,6.6,6.6
+Longview,"Health and beauty",8,8,8
+"Eagle Pass","Sports and travel",9.6,9.6,9.6
+Lewisville,"Sports and travel",6.1,6.1,6.1
+Mesquite,"Sports and travel",7.8,7.8,7.8
+Lewisville,"Fashion accessories",4,9,6.846153846153846
+Mesquite,"Electronic accessories",7,9.8,8.700000000000001
+Lancaster,"Sports and travel",8.1,8.1,8.1
+"Mineral Wells","Health and beauty",9.8,9.8,9.8
+"League City","Fashion accessories",4,9,5.836842105263158
+Plano,"Electronic accessories",4,8,6
+Nacogdoches,"Sports and travel",5,8.5,6.75
+Edinburg,"Health and beauty",8.6,8.6,8.6
+Rosenberg,"Sports and travel",6.5,6.5,6.5
+"Corpus Christi","Health and beauty",5.3,8.4,6.85
+Plano,"Home and lifestyle",3,9,5.1742857142857135
+Lubbock,"Electronic accessories",4.3,4.3,4.3
+Weslaco,"Health and beauty",4.3,9.2,6.75
+Huntsville,"Electronic accessories",5.8,5.8,5.8
+"New Braunfels","Electronic accessories",5.9,5.9,5.9
+McKinney,"Food and beverages",4,4,4
+Pearland,"Fashion accessories",4,9,6.0375
+Angleton,"Electronic accessories",5.1,10,7.55
+Angleton,"Health and beauty",5.1,5.1,5.1
+Lewisville,"Home and lifestyle",3,9,5.534782608695652
+"San Angelo","Sports and travel",9.3,9.3,9.3
+Irving,"Electronic accessories",5,8.6,7.2
+Midland,"Food and beverages",6,6,6
+"Grand Prairie","Sports and travel",5,5,5
+Waco,"Sports and travel",5.6,5.6,5.6
+"Lake Jackson","Health and beauty",7.2,7.2,7.2
+"Grand Prairie","Fashion accessories",3,9,5.857777777777779
+"New Braunfels","Health and beauty",4.2,4.2,4.2
+Weatherford,"Home and lifestyle",3,9,5.133333333333333
+"College Station","Fashion accessories",4,9,6.721739130434782
+"Fort Worth","Food and beverages",5.8,8.7,7.25
+Euless,"Home and lifestyle",4,9,6.6038461538461535
+Coppell,"Home and lifestyle",4,9,6.76
+Sherman,"Electronic accessories",3,7.6,4.716666666666667
+Carrollton,"Sports and travel",7.2,7.2,7.2
+Galveston,"Home and lifestyle",3,9,6.385294117647058
+Irving,"Health and beauty",7.6,7.6,7.6
+"El Paso","Home and lifestyle",3,9.8,5.876470588235295
+"Haltom City","Food and beverages",5.9,5.9,5.9
+Alice,"Electronic accessories",7.3,7.3,7.3
+Pharr,"Home and lifestyle",4,9,5.996296296296297
+Longview,"Home and lifestyle",4,9,6.112121212121211
+Waco,"Food and beverages",8.4,8.4,8.4
+Austin,"Electronic accessories",5.5,5.5,5.5
+"Grand Prairie","Electronic accessories",4.3,4.3,4.3
+Garland,"Home and lifestyle",4,9,6.1891891891891895
+Brownwood,"Home and lifestyle",4,9,6.378378378378378
+Burleson,"Fashion accessories",3,9,6.275862068965517
+Mansfield,"Fashion accessories",3,9,6.024390243902439
+Frisco,"Fashion accessories",3,9,6.275862068965517
+Conroe,"Fashion accessories",4,9,6.368421052631579
+Friendswood,"Home and lifestyle",4,9,5.884615384615385
+Edinburg,"Home and lifestyle",3,9,6.114285714285714
+"Little Elm","Home and lifestyle",3,8,5.8108108108108105
+"New Braunfels","Home and lifestyle",3,9,6.357142857142857
+Mesquite,"Home and lifestyle",3,9,5.9714285714285715
+Burleson,"Home and lifestyle",3,9,6.166666666666667
+Rosenberg,"Fashion accessories",3,9,5.085365853658536
+"Texas City","Fashion accessories",3,7,5.108433734939759
+"San Marcos","Home and lifestyle",3,7,4.924050632911392
+Brownwood,"Fashion accessories",3,9,6.3125
+"San Antonio","Fashion accessories",3,9,5.121951219512195
+Baytown,"Home and lifestyle",4,9,6.363636363636363
+Lubbock,"Fashion accessories",3,9,6.235294117647059
+Alice,"Fashion accessories",3,9,5.925925925925926
+"Lake Jackson","Fashion accessories",4,9,6.875
+Longview,"Fashion accessories",4,9,6.368421052631579
+Denton,"Home and lifestyle",3,9,6.7
+"San Angelo","Fashion accessories",3,9,4.865853658536586
+Odessa,"Home and lifestyle",3,9,6.190476190476191
+"League City","Home and lifestyle",3,9,6.175
+Allen,"Fashion accessories",3,9,6.589743589743589
+Tyler,"Home and lifestyle",3,8,5.023809523809524
+Rowlett,"Home and lifestyle",3,9,4.7105263157894735
+Conroe,"Home and lifestyle",3,8,6.285714285714286
+"Corpus Christi","Fashion accessories",3,9,6
+Rockwall,"Home and lifestyle",3,9,5.1063829787234045
+Frisco,"Home and lifestyle",3,9,6.636363636363637
+Southlake,"Fashion accessories",3,9,5.22093023255814
+Bedford,"Home and lifestyle",4,9,6.76
+Huntsville,"Home and lifestyle",4,9,6.617647058823529
+"Haltom City","Fashion accessories",3,9,6.363636363636363
+Richardson,"Electronic accessories",4,7,5.2
+Sherman,"Home and lifestyle",3,7,4.955223880597015
+"Texas City","Electronic accessories",3,7,4.571428571428571
+"Port Arthur","Electronic accessories",3,7,4.5
+Schertz,"Electronic accessories",3,7,4.714285714285714
